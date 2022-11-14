@@ -6,7 +6,7 @@ MENU = """(G)et a valid score
 
 
 def main():
-    score = 0
+    score = validate_score()
     print(MENU, end="")
     choice = input(">>>").upper()
     while choice != "Q":
