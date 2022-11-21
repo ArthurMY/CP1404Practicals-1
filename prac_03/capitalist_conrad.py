@@ -19,7 +19,7 @@ number_of_days = 0
 
 
 price = INITIAL_PRICE
-print(f"${price:,.2f}")
+print(f"Starting price : ${price:,.2f}")
 
 out_file = open(OUTPUT_FILE, 'w')
 
