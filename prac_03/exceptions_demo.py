@@ -2,11 +2,11 @@
 CP1404/CP5632 - Practical
 Answer the following questions:
 1. When will a ValueError occur?
-This error will happen if the numbers entered are not numbers
+    This error will happen if the numbers entered are not numbers
 2. When will a ZeroDivisionError occur?
-This error will happen if the denominator enters is 0
+    This error will happen if the denominator enters is 0
 3. Could you change the code to avoid the possibility of a ZeroDivisionError?
-This can be added by adding a validation loop that prevents zero from being entered as a denominator
+    This can be added by adding a validation loop that prevents zero from being entered as a denominator
 """
 
 try:
