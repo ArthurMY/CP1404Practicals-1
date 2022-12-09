@@ -19,3 +19,4 @@ for word in WORDS.keys():
 
 for text in sorted_words:
     print(f"{text:<{width}}: {WORDS[text]}")
+#nice try!
